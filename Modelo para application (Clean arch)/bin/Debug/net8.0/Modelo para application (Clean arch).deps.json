@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Modelo para application (Clean arch)/1.0.0": {
+        "runtime": {
+          "Modelo para application (Clean arch).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modelo para application (Clean arch)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

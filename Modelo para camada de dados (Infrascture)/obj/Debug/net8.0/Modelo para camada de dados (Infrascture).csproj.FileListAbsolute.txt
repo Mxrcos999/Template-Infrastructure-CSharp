@@ -1,0 +1,19 @@
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\bin\Debug\net8.0\Modelo para camada de dados (Infrascture).deps.json
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\bin\Debug\net8.0\Modelo para camada de dados (Infrascture).runtimeconfig.json
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\bin\Debug\net8.0\Modelo para camada de dados (Infrascture).dll
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\bin\Debug\net8.0\Modelo para camada de dados (Infrascture).pdb
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\bin\Debug\net8.0\Domain.dll
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\bin\Debug\net8.0\Modelo para application (Clean arch).dll
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\bin\Debug\net8.0\Domain.pdb
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\bin\Debug\net8.0\Modelo para application (Clean arch).pdb
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\Modelo para camada de dados (Infrascture).csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\Modelo para camada de dados (Infrascture).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\Modelo para camada de dados (Infrascture).AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\Modelo para camada de dados (Infrascture).AssemblyInfo.cs
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\Modelo para camada de dados (Infrascture).csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\Modelo p.B1E331D3.Up2Date
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\Modelo para camada de dados (Infrascture).dll
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\refint\Modelo para camada de dados (Infrascture).dll
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\Modelo para camada de dados (Infrascture).pdb
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\Modelo para camada de dados (Infrascture).genruntimeconfig.cache
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para camada de dados (Infrascture)\obj\Debug\net8.0\ref\Modelo para camada de dados (Infrascture).dll

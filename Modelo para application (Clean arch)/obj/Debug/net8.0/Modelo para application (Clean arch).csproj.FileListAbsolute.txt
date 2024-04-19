@@ -1,0 +1,11 @@
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\bin\Debug\net8.0\Modelo para application (Clean arch).deps.json
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\bin\Debug\net8.0\Modelo para application (Clean arch).dll
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\bin\Debug\net8.0\Modelo para application (Clean arch).pdb
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\obj\Debug\net8.0\Modelo para application (Clean arch).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\obj\Debug\net8.0\Modelo para application (Clean arch).AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\obj\Debug\net8.0\Modelo para application (Clean arch).AssemblyInfo.cs
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\obj\Debug\net8.0\Modelo para application (Clean arch).csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\obj\Debug\net8.0\Modelo para application (Clean arch).dll
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\obj\Debug\net8.0\refint\Modelo para application (Clean arch).dll
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\obj\Debug\net8.0\Modelo para application (Clean arch).pdb
+C:\Users\marco\source\repos\Modelo para camada de dados (Infrascture)\Modelo para application (Clean arch)\obj\Debug\net8.0\ref\Modelo para application (Clean arch).dll
