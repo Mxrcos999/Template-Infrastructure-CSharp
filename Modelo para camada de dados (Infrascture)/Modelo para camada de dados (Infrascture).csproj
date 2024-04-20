@@ -5,6 +5,10 @@
     <RootNamespace>Modelo_para_camada_de_dados__Infrascture_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>CRM.Oikos.Data</Title>
+    <Authors>Marcos Felipe Silva Celestino</Authors>
+    <Description>Pacote da camada de dados</Description>
   </PropertyGroup>
 
   <ItemGroup>

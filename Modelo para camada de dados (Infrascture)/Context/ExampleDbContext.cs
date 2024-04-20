@@ -1,23 +1,28 @@
-﻿using Domain;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using Microsoft.Extensions.Configuration;
 
 namespace Modelo_para_camada_de_dados__Infrascture_.Context;
 
 public class ExampleDbContext : DbContext
 {
     public ExampleDbContext(DbContextOptions<ExampleDbContext> options) : base(options) { }
-    public DbSet<Cliente> Clientes { get; set; }
 
 }
 
 
 public class ExampleDbContextFactory : IDesignTimeDbContextFactory<ExampleDbContext>
 {
+    private readonly IConfiguration _configuration;
+
+    public ExampleDbContextFactory(IConfiguration configuration)
+    {
+        _configuration = configuration;
+    }
     public ExampleDbContext CreateDbContext(string[] args)
     {
         var optionsBuilder = new DbContextOptionsBuilder<ExampleDbContext>();
-        optionsBuilder.UseNpgsql("Host=127.0.0.1;Port=5432;Database=testeDb;Username=postgres;Password=1234");
+        optionsBuilder.UseNpgsql(_configuration.GetConnectionString("DefaultConnection"));
 
         return new ExampleDbContext(optionsBuilder.Options);
     }

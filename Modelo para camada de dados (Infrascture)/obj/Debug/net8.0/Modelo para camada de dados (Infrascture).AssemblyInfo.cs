@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Modelo para camada de dados (Infrascture)")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Marcos Felipe Silva Celestino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Pacote da camada de dados")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eb68b6fbf29f02458759df689b94383b4b45f0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modelo para camada de dados (Infrascture)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modelo para camada de dados (Infrascture)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
